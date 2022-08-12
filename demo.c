@@ -6,6 +6,8 @@ int main(){
 
     printf("%d" , hey);
     printf("%d" , hey);
+        printf("%d" , hey);
+
 
     
     return 0;
